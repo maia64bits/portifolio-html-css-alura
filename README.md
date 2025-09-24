@@ -16,4 +16,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Eduarda Andrade
 
-### Linkedin: (https://www.linkedin.com/in/eduarda-andrade-991652231)
+### Linkedin: https://www.linkedin.com/in/eduarda-andrade-991652231
