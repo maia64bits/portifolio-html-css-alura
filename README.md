@@ -10,8 +10,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 * CSS
 
-* Flex-box
-
 ## Feito por:
 
 ### Eduarda Andrade
